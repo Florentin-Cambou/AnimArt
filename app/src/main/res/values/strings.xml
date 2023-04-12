@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AnimArt</string>
+
+    <string name = "image_1">Le chalet enchanté</string>
+    <string name = "image_2">The office</string>
+    <string name = "image_3">Alert intru !</string>
+    <string name = "image_4">OoOOowh Bonjour</string>
+    <string name = "image_5">Tiny house</string>
+</resources>
